@@ -595,7 +595,7 @@ a:focus {
           justify-content: center;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  background-color: rgba(232, 173, 34, 0.9);
+  background-color: #58043f80;
   border: 5px solid #ffffff;
 }
 
